@@ -18,3 +18,4 @@ I do a lot of community work in an anarchist hackerspace called Noisebridge.  We
 Noisebridge is at 2169 Mission St on the 3rd floor (look for the button on the gate).  Buzz us during the day and someone will let you in.  Be sure to ask for a tour!  <3 
 
 Naomi Most, Feb 7, 2020.
+naomi@streamlit.io
