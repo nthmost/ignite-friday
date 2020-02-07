@@ -6,6 +6,11 @@
 
 [Kaggle](https://www.kaggle.com/) -- get started with an online Python notebook, free, right away.
 
+## Articles
+
+[Data science for the 9 year old](https://medium.com/the-andela-way/data-science-for-the-9-year-old-e1e693df98f7).  A short article about what data science is and why you might want to play with it.
+
+
 
 ## About Me
 
