@@ -1,6 +1,11 @@
 # ignite-friday
 
-Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, aerial performance, singing, and philosphy.  I have lived in San Francisco for 15 years.
+Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, aerial performance, singing, and philosophy.  I have lived in San Francisco for 15 years.
+
+## WORKSHOP: DO THIS FIRST 
+
+* [Set up a Kaggle account here.](https://www.kaggle.com/)
+* Start up a fresh Notebook within Kaggle.
 
 ## What we're doing here
 
@@ -9,9 +14,6 @@ Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, a
 * Using a powerful online tool called Jupyter Notebook (also known as IPython) to collect and explore data.
 
 ## Do This at the Very Beginning
-
-* [Set up a Kaggle account here.](https://www.kaggle.com/)
-* Start up a fresh Notebook within Kaggle.
 
 ## Things to play with 
 
