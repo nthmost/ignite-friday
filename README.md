@@ -4,8 +4,11 @@ Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, a
 
 In this workshop we're going to build a very simple (and very silly) personality test.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nthmost/ignite-friday/master?filepath=Ignite%20Friday.ipynb)
+
 ## WORKSHOP: DO THIS FIRST 
 
+* [Load up the shared Notebook on Binder](https://mybinder.org/v2/gh/nthmost/ignite-friday/master?filepath=Ignite%20Friday.ipynb) we're going to work from.
 * [Set up a Kaggle account here.](https://www.kaggle.com/)
 * Start up a fresh Notebook within Kaggle.
 * Load up the finished ["13th Floor Compatibility Test"](http://text2gene.com:8501/) in your browser.
