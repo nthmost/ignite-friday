@@ -1,10 +1,23 @@
 # ignite-friday
 
+## Do This at the Very Beginning
+
+[(Set up a Kaggle account here.)
+
+Start up a fresh IPython Notebook within Kaggle.
+
+## Things to play with 
+
+* Click on the "Add Data" button at the top right-hand corner of your Notebook in Kaggle.  Take a look at all the datasets Kaggle lets you add to your project.  Try searching "climate change", "Koalas", or anything else that comes to mind.
+
+
 ## Resources 
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)  ...because it's actually the easy way.
 
 [Kaggle](https://www.kaggle.com/) -- get started with an online Python notebook, free, right away.
+
+[Streamlit](https://streamlit.io/) -- when you're ready for more, use Streamlit to make full interactive apps quickly in Python.
 
 ## Articles
 
