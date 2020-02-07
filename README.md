@@ -2,22 +2,27 @@
 
 Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, aerial performance, singing, and philosophy.  I have lived in San Francisco for 15 years.
 
+In this workshop we're going to build a very simple (and very silly) personality test.
+
 ## WORKSHOP: DO THIS FIRST 
 
 * [Set up a Kaggle account here.](https://www.kaggle.com/)
 * Start up a fresh Notebook within Kaggle.
+* Load up the finished ["13th Floor Compatibility Test"](http://text2gene.com:8501/) in your browser.
+* Play with the personality test to get a feel for what it might be doing.
 
 ## What we're doing here
 
-* Thinking about how we might collect data and organize it.
-* Taking some first steps with Python.
-* Using a powerful online tool called Jupyter Notebook (also known as IPython) to collect and explore data.
+* Exploring methods to collect data and make sense of it.
+* Taking some first steps with Python using Jupyer Notebook.
+* A brief introduction to Streamlit, another open source Python toolkit.
 
-## Do This at the Very Beginning
+## Other things you can do while we're hacking together
 
-## Things to play with 
-
-* Click on the "Add Data" button at the top right-hand corner of your Notebook in Kaggle.  Take a look at all the datasets Kaggle lets you add to your project.  Try searching "climate change", "Koalas", or anything else that comes to mind.
+* Help a friend.
+* Get help from a friend.
+* Think about what interests you about the world.  How could building an app help you learn, make better decisions, or just have more fun?
+* In Kaggle, click on the "Add Data" button at the top right-hand corner of your Notebook in Kaggle.  Take a look at all the datasets Kaggle lets you add to your project.  Try searching "climate change", "Koalas", or anything else that comes to mind.
 
 ## Resources 
 
@@ -29,8 +34,7 @@ Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, a
 
 ## Articles
 
-* [Data science for the 9 year old](https://medium.com/the-andela-way/data-science-for-the-9-year-old-e1e693df98f7).  A short article about what data science is and why you might want to play with it.
-
+* [Data science for the 9 year old](https://medium.com/the-andela-way/data-science-for-the-9-year-old-e1e693df98f7).  A short article with cute images explaining what data science is and why you might want to play with it.
 
 ## About Me
 
