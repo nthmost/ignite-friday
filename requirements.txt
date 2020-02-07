@@ -1,0 +1,5 @@
+ipython
+metapub
+tweepy
+pandas
+textblob
