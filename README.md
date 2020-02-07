@@ -23,6 +23,7 @@ In this workshop we're going to build a very simple (and very silly) personality
 * Get help from a friend.
 * Think about what interests you about the world.  How could building an app help you learn, make better decisions, or just have more fun?
 * In Kaggle, click on the "Add Data" button at the top right-hand corner of your Notebook in Kaggle.  Take a look at all the datasets Kaggle lets you add to your project.  Try searching "climate change", "Koalas", or anything else that comes to mind.
+* [Check out the 13th Floor Stem Soul Compatibility Test source code](https://github.com/nthmost/st-13thfloor/).  Notice what is similar between the Notebook we're working with, and [the code in the main script](https://github.com/nthmost/st-13thfloor/blob/master/13thfloor.py).
 
 ## Resources 
 
