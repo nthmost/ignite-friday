@@ -10,7 +10,7 @@ Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, a
 
 ## Do This at the Very Beginning
 
-* [https://www.kaggle.com/](Set up a Kaggle account here.)
+* [Set up a Kaggle account here.](https://www.kaggle.com/)
 * Start up a fresh Notebook within Kaggle.
 
 ## Things to play with 
