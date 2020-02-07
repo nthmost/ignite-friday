@@ -1,28 +1,33 @@
 # ignite-friday
 
+Hi!  I'm Naomi Most.  I'm an engineer, artist, and mom.  I love rock climbing, aerial performance, singing, and philosphy.  I have lived in San Francisco for 15 years.
+
+## What we're doing here
+
+* Thinking about how we might collect data and organize it.
+* Taking some first steps with Python.
+* Using a powerful online tool called Jupyter Notebook (also known as IPython) to collect and explore data.
+
 ## Do This at the Very Beginning
 
-[(Set up a Kaggle account here.)
-
-Start up a fresh IPython Notebook within Kaggle.
+* [https://www.kaggle.com/](Set up a Kaggle account here.)
+* Start up a fresh Notebook within Kaggle.
 
 ## Things to play with 
 
 * Click on the "Add Data" button at the top right-hand corner of your Notebook in Kaggle.  Take a look at all the datasets Kaggle lets you add to your project.  Try searching "climate change", "Koalas", or anything else that comes to mind.
 
-
 ## Resources 
 
-[Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)  ...because it's actually the easy way.
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)  ...because it's actually the easy way.
 
-[Kaggle](https://www.kaggle.com/) -- get started with an online Python notebook, free, right away.
+* [Kaggle](https://www.kaggle.com/) -- get started with an online Python notebook, free, right away.
 
-[Streamlit](https://streamlit.io/) -- when you're ready for more, use Streamlit to make full interactive apps quickly in Python.
+* [Streamlit](https://streamlit.io/) -- when you're ready for more, use Streamlit to make full interactive apps quickly in Python.
 
 ## Articles
 
-[Data science for the 9 year old](https://medium.com/the-andela-way/data-science-for-the-9-year-old-e1e693df98f7).  A short article about what data science is and why you might want to play with it.
-
+* [Data science for the 9 year old](https://medium.com/the-andela-way/data-science-for-the-9-year-old-e1e693df98f7).  A short article about what data science is and why you might want to play with it.
 
 
 ## About Me
