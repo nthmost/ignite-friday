@@ -1,13 +1,13 @@
 # ignite-friday
 
-# # Resources 
+## Resources 
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)  ...because it's actually the easy way.
 
 [Kaggle](https://www.kaggle.com/) -- get started with an online Python notebook, free, right away.
 
 
-# # About Me
+## About Me
 
 I've been coding for more than 20 years (yowza!).  I've been using Linux since the late 90s and Python since about 2001.
 
